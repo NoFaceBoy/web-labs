@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="442" height="442" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(0,0,0,0)"></rect>
+<g transform="matrix(2.2613 0 0 2.2557 497.36 501.4187)" id="140632">
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(104,201,186); fill-rule: nonzero; opacity: 0.1;" vector-effect="non-scaling-stroke" transform=" translate(-216.8175, -179.0001)" d="M 44.2904 41.7355 C 48.3276 17.6466 69.1778 0.00012207 93.6026 0.00012207 H 383.285 C 410.899 0.00012207 433.285 22.3859 433.285 50.0001 V 308 C 433.285 335.614 410.899 358 383.285 358 H 50.3624 C 19.4471 358 -4.05989 330.226 1.05018 299.736 L 44.2904 41.7355 Z" stroke-linecap="round"></path>
+</g>
+<g transform="matrix(2.0893 0.7903 -0.7903 2.0893 709.9976 264.7372)" id="505966">
+<ellipse style="stroke: rgb(255,255,255); stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" cx="0" cy="0" rx="16.8481" ry="9.95569"></ellipse>
+</g>
+<g transform="matrix(2.2338 0 0 2.2338 709.9996 293.5604)" id="953783">
+<path style="stroke: rgb(255,255,255); stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-96.7725, -69.0108)" d="M 183.014 79.0295 C 208.738 108.207 178.363 136.381 124.903 137.141 C 18.6159 130.137 -5.36859 36.0074 2.66406 14.9028 C 10.6967 -6.20185 34.6151 -6.7779 70.054 36.2151 C 105.493 79.2081 150.858 42.5572 183.014 79.0295 Z" stroke-linecap="round"></path>
+</g>
+</svg>

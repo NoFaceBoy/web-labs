@@ -1,0 +1,59 @@
+body {
+  font-family: Avenir, Helvetica;
+  background: #f6fafd;
+  font-weight: 500;
+  color: #4b5d68;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 110%;
+  color: #212353;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 130%;
+  color: #212353;
+}
+
+h3 {
+  font-family: "Helvetica";
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 130%;
+  color: #212353;
+}
+
+p {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 160%;
+  color: #4b5d68;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #4b5d68;
+}
+a:hover,
+a:active {
+  text-decoration: none;
+  color: #212353;
+}
+
+button{
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 160%;
+  border-radius: 50px;
+  border: 0;
+}
+
+li {
+  display: block;
+}

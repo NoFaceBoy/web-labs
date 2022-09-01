@@ -1,0 +1,28 @@
+.learn-more {
+  background-image: url("../images/image1.svg");
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-position: 90% 80%;
+  padding-top: 90px;
+  padding-bottom: 150px;
+  margin-left: 15%;
+  margin-bottom: 50px;
+  box-sizing: border-box;
+}
+
+.learn-more__title {
+  margin-bottom: 3%;
+}
+
+.learn-more__description {
+  margin-bottom: 3%;
+}
+
+.learn-more-button {
+  font-weight: 800;
+  size: 18px;
+  width: 170px;
+  height: 60px;
+  color: #fff;
+  background: #9c69e2;
+}
