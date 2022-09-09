@@ -1,44 +1,69 @@
 .header {
+  width: 70%;
   margin-left: 15%;
+  margin-right: 15%;
   margin-top: 40px;
   display: flex;
-  justify-content: space-between;
+  flex-direction: row;
+  height: 70px;
 }
 
-.header__logo{
-  padding-right: 8%;
-  position:relative
-}
-
-.logo__image{
-  position:absolute; 
-  bottom:0;
-}
-
-.header__nav ul {
-  display: flex;
-}
-
-.header__nav-item {
+.header__logo {
+  padding-right: 15%;
   position: relative;
-  top: 17px;
-  margin-right: 25%;
-  font-weight: 500;
-  font-size: 16px;
+}
+
+.logo-image {
+  position: absolute;
+  bottom: 0;
+}
+
+.chosen {
+  color: #212353;
+  font-weight: 800;
+}
+
+.pointer__image {
+  margin-left: 5%;
+  vertical-align: middle;
 }
 
 .header__button {
-  margin: auto;
-  margin-right: 15%;
   width: 210px;
   height: 60px;
+  align-items: center;
   background: #fff;
   box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
   font-weight: 800;
   color: #212353;
 }
 
-.pointer__image {
-  margin-left: 5%;
-  vertical-align: middle;
+.header__nav-item {
+  color: #4b5d68;
+  position: relative;
+  top: 47px;
+  margin-right: 10%;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.button {
+  display: flex;
+  margin-left: 100%;
+  position: static; 
+}
+
+.header__nav-item a {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 700px) {
+  .header {
+    margin-right: 1rem;
+    margin-top: 0;
+    justify-content: space-between;
+  }
+  .button {
+    position: relative;
+  }
 }

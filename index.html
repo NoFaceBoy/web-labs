@@ -5,11 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Data warehouse</title>
 
+    <!-- Avenir font -->
     <link
       href="http://fonts.googleapis.com/css?family=Avenir"
       rel="stylesheet"
       type="text/css"
     />
+    <!-- Helvetica font -->
     <link
       href="http://fonts.googleapis.com/css?family=Helvetica"
       rel="stylesheet"
@@ -21,41 +23,45 @@
 
   <body>
     <header class="header">
-      <div class="header__logo">
-        <img class="logo__image" src="images/logo.svg" />
+      <div class="header__logo scaled">
+        <img class="logo-image" src="images/logo.svg" />
       </div>
-      <nav class="header__nav">
-        <ul>
-          <li class="header__nav-item">
-            <a href="" style="text-decoration: none">About</a>
-          </li>
-          <li class="header__nav-item">
-            <a href="" style="text-decoration: none">Help</a>
-          </li>
-          <li class="header__nav-item">
-            <a href="" style="text-decoration: none">Features</a>
-          </li>
-          <li class="header__nav-item">
-            <a href="" style="text-decoration: none">Signup</a>
-          </li>
-        </ul>
-      </nav>
-      <button class="header__button">
-        Request Demo
-        <img class="pointer__image" src="images/pointer-logo.svg" />
-      </button>
+      <input id="menu-toggle" type="checkbox" />
+      <label class="menu-button-container" for="menu-toggle">
+        <div class="menu-button"></div>
+      </label>
+      <ul class="menu">
+        <li class="header__nav-item">
+          <a href="#" class="header__nav-link chosen">About</a>
+        </li>
+        <li class="header__nav-item">
+          <a href="#">Help</a>
+        </li>
+        <li class="header__nav-item">
+          <a href="#">Features</a>
+        </li>
+        <li class="header__nav-item">
+          <a href="#">Signup</a>
+        </li>
+        <li class="header__nav-item pointer button scaled">
+          <button class="header__button">
+            Request Demo
+            <img class="pointer__image" src="images/pointer-logo.svg" />
+          </button>
+        </li>
+      </ul>
     </header>
 
     <main>
       <section class="learn-more">
-        <h1 class="learn-more__title">Save your data<br>storage here.</h1>
+        <h1 class="learn-more__title">Save your data<br />storage here.</h1>
         <p class="learn-more__description">
-          Data Warehouse is a data storage area that<br />
-          has been tested for security, so you can store<br />
-          your data here safely but not be afraid of<br />
+          Data Warehouse is a data storage area that
+          has been tested for security, so you can storage
+          your data here safely but not be afraid of
           being stolen by others.
         </p>
-        <button class="learn-more-button">Learn more</button>
+        <button class="learn-more__button pointer gradient">Learn more</button>
       </section>
 
       <section class="info-about">
@@ -65,11 +71,11 @@
             We are a high-level data storage bank
           </h2>
           <p class="info-about__description">
-            The place to store various data that you can access at any<br />time
-            through the internet and where you can carry it.<br />This very
-            flexible storage area has a high level of security.<br />
-            To enter into your own data you must enter the password<br />
-            that you created when you registered in this Data<br />Warehouse.
+            The place to store various data that you can access at any time
+            through the internet and where you can carry it. This very flexible
+            storage area has a high level of security. To enter into your own
+            data you must enter the password that you created when you
+            registered in this Data Warehouse.
           </p>
         </div>
       </section>
@@ -78,14 +84,14 @@
         <h2 class="features__title">Features</h2>
         <p class="features__description">
           Some of the features and advantages that we provide for those of
-          you<br />who store data in this Data Warehouse.
+          you who store data in this Data Warehouse.
         </p>
       </section>
 
-      <section class="features__list">
+      <section class="features-list">
         <div class="column">
           <div class="first-row">
-            <div class="first-feature">
+            <div class="feature background1">
               <img
                 src="./images/image3.svg"
                 alt="Search Data"
@@ -99,7 +105,7 @@
                   provides a search engine,<br />which is useful for making
                   it<br />easier to find data effectively<br />saving time.
                 </p>
-                <p class="features-list__learn-more">
+                <p class="features-list__learn-more pointer scaled">
                   Learn more
                   <img
                     src="./images/pointer-logo.svg"
@@ -110,7 +116,7 @@
               </div>
             </div>
 
-            <div class="second-feature">
+            <div class="feature background2">
               <img
                 src="./images/image4.svg"
                 alt="24 Hour Access"
@@ -124,7 +130,7 @@
                   again in the morning, giving<br />you comfort when you need<br />data
                   when urgent.
                 </p>
-                <p class="features-list__learn-more">
+                <p class="features-list__learn-more pointer scaled">
                   Learn more
                   <img
                     src="./images/pointer-logo.svg"
@@ -136,7 +142,7 @@
             </div>
           </div>
           <div class="second-row">
-            <div class="third-feature">
+            <div class="feature background3">
               <img
                 src="./images/image5.svg"
                 alt="Print Out"
@@ -148,7 +154,7 @@
                   Print out service gives you<br />convenience if someday you<br />need
                   print data, just edit it all<br />and just print it.
                 </p>
-                <p class="features-list__learn-more">
+                <p class="features-list__learn-more pointer scaled">
                   Learn more
                   <img
                     src="./images/pointer-logo.svg"
@@ -159,7 +165,7 @@
               </div>
             </div>
 
-            <div class="fourth-feature">
+            <div class="feature background4">
               <img
                 src="./images/image6.svg"
                 alt="Opening Lock"
@@ -174,7 +180,7 @@
                   or<br />
                   password that you created,<br />so only you can open the file.
                 </p>
-                <p class="features-list__learn-more">
+                <p class="features-list__learn-more pointer scaled">
                   Learn more
                   <img
                     src="./images/pointer-logo.svg"
@@ -198,19 +204,19 @@
           </p>
         </div>
         <div class="footer__buttons">
-          <button class="footer__learn-more-button">Learn more</button>
-          <button class="footer__request-demo-button">
+          <button class="footer__button--learn-more pointer scaled">Learn more</button>
+          <button class="footer__button--request-demo pointer scaled">
             Request Demo
             <img class="pointer__image" src="images/pointer-logo.svg" />
           </button>
         </div>
       </div>
       <div class="bottom-footer">
-        <p class="rights-text">
-          © Datawarehouse™, 2020. All rights reserved.<br>Company Registration
+        <p class="rights__text">
+          © Datawarehouse™, 2020. All rights reserved.<br />Company Registration
           Number: 21479524.
         </p>
-        <img src="./images/message-icon.svg" />
+        <img class="pointer scaled" src="./images/message-icon.svg" />
       </div>
     </footer>
   </body>
