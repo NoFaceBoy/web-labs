@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="442" height="442" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(0,0,0,0)"></rect>
+<g transform="matrix(2.2708 0 0 2.2708 499.4416 499.5167)" id="573767">
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(45,156,219); fill-rule: nonzero; opacity: 0.1;" vector-effect="non-scaling-stroke" transform=" translate(-216.8165, -179.0001)" d="M 44.2894 41.7355 C 48.3267 17.6466 69.1768 0.00012207 93.6017 0.00012207 H 383.284 C 410.898 0.00012207 433.284 22.3859 433.284 50.0001 V 308 C 433.284 335.614 410.898 358 383.284 358 H 50.3614 C 19.4461 358 -4.06087 330.226 1.0492 299.736 L 44.2894 41.7355 Z" stroke-linecap="round"></path>
+</g>
+<g transform="matrix(2.1239 0.8034 -0.8034 2.1239 840.359 769.3851)" id="829332">
+<ellipse style="stroke: rgb(255,255,255); stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" cx="0" cy="0" rx="30.9248" ry="18.2737"></ellipse>
+</g>
+<g transform="matrix(2.2708 0 0 2.2708 437.6429 407.8138)" id="256100">
+<path style="stroke: rgb(255,255,255); stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-150.2068, -114.877)" d="M 58.7256 226.711 C -1.80858 238.917 -16.4329 174.793 24.9576 100.69 C 118.954 -39.8782 267.406 1.86394 290.045 29.6597 C 312.685 57.4555 294.491 90.7968 207.252 105.393 C 120.014 119.99 134.393 211.452 58.7256 226.711 Z" stroke-linecap="round"></path>
+</g>
+</svg>

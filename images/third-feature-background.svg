@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="442" height="442" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(0,0,0,0)"></rect>
+<g transform="matrix(2.2684 0 0 2.2684 497.7222 498.0943)" id="385315">
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(240,99,184); fill-rule: nonzero; opacity: 0.1;" vector-effect="non-scaling-stroke" transform=" translate(-216.8175, -179)" d="M 44.2904 41.7354 C 48.3276 17.6465 69.1778 0 93.6026 0 H 383.285 C 410.899 0 433.285 22.3858 433.285 50 V 308 C 433.285 335.614 410.899 358 383.285 358 H 50.3624 C 19.4471 358 -4.05989 330.225 1.05018 299.735 L 44.2904 41.7354 Z" stroke-linecap="round"></path>
+</g>
+<g transform="matrix(-1.9645 1.1342 -1.1342 -1.9645 834.6384 231.886)" id="296686">
+<ellipse style="stroke: rgb(255,255,255); stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" cx="0" cy="0" rx="34.0274" ry="20.1071"></ellipse>
+</g>
+</svg>
