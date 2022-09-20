@@ -16,13 +16,66 @@
 
 .learn-more__description {
   margin-bottom: 3%;
+  width: 380px;
 }
 
-.learn-more-button {
+.learn-more__button {
   font-weight: 800;
   size: 18px;
   width: 170px;
   height: 60px;
   color: #fff;
   background: #9c69e2;
+  border-radius: 50px;
+}
+
+@media screen and (min-width: 1750px) {
+  .body {
+    width: 50%;
+    margin: 0 auto;
+  }
+  .learn-more__description {
+    font-size: 1.5rem;
+  }
+  .learn-more {
+    background-position: 70% 80%;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .learn-more {
+    background-size: 70%;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .learn-more {
+    margin-left: 1em;
+    margin-right: 1em;
+    background-size: 60%;
+    padding-bottom: 75px;
+  }
+
+  .learn-more__title {
+    font-size: 4rem;
+  }
+
+  .learn-more__description {
+    width: 300px;
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .learn-more {
+    background-position: right center;
+  }
+
+  .learn-more__description {
+    width: 160px;
+  }
+
+  .learn-more__title {
+    font-size: 2rem;
+  }
 }

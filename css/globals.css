@@ -3,6 +3,7 @@ body {
   background: #f6fafd;
   font-weight: 500;
   color: #4b5d68;
+  width: 100%;
 }
 
 h1 {
@@ -36,17 +37,12 @@ p {
   color: #4b5d68;
 }
 
-a:visited {
-  text-decoration: none;
-  color: #4b5d68;
-}
-a:hover,
-a:active {
+a:hover {
   text-decoration: none;
   color: #212353;
 }
 
-button{
+button {
   font-weight: 900;
   font-size: 16px;
   line-height: 160%;
